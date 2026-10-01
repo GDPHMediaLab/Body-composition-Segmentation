@@ -1,6 +1,6 @@
 # Pretrained CT Semantic Priors for Label-Efficient Body Composition Segmentation via Hierarchical Regularization
 
-This repository is a rewritten implementation of the segmentation network
+This repository is a implementation of the segmentation network
 from the paper **Pretrained CT Semantic Priors for Label-Efficient Body
 Composition Segmentation via Hierarchical Regularization**. It follows the
 implementation style of nnUNet but is written from scratch (convolutional U-Net
