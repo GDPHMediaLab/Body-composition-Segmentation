@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+dependencies = [
+    "torch>=1.10",
+    "batchgenerators>=0.25",
+    "acvl-utils>=0.2",
+    "dynamic-network-architectures>=0.2",
+    "timm>=0.9",
+    "numpy",
+    "scipy",
+    "scikit-learn",
+    "scikit-image",
+    "SimpleITK>=2.2.1",
+    "pandas",
+    "tqdm",
+    "nibabel",
+    "matplotlib",
+    "blosc2",
+    "einops",
+    "yacs",
+]
+
+
+
